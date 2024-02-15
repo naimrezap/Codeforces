@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1641579797 source:g:\cc program\c++\first project\main.cpp
+	<iostream>
+
+1640105085 g:\cc program\c++\first project\student.h
+	<iostream>
+
+1644171580 source:g:\cc program\c++\first project\student.cpp
+	<iostream>
+
+1644171962 source:g:\cc program\c++\first project\r.cpp
+	<iostream>
+
